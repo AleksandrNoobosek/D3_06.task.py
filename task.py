@@ -71,6 +71,7 @@
 #     summ_age += el
 
 # result_age = summ_age/len(a_list)
+
 # print(f'Cамое длинное имя ==> {maxx_symbol}')  
 # print(f'Средний возраст ==> {result_age}')
 
